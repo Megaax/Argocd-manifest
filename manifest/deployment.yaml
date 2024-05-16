@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: mohamedmagdykhamis/todo-app:0f4b6027c844cacb5e9d919be5cea7902193f1af
+        image: mohamedmagdykhamis/todo-app:62ed3c799937fbd38881e0c5cbee89732f6a4b83
         ports:
         - containerPort: 80
